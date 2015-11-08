@@ -1,0 +1,66 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: 'Oswald', sans-serif;
+}
+
+#top{
+	background-color: black;
+	height: 400px;
+}
+
+#top h1{
+	color: white;
+	font-size: 150px;
+	text-align: center;
+
+	padding-top: 75px;
+}
+
+#aboutMe p{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+
+	font-size: 20px;
+	width: 700px;
+	margin-top: 50px;
+	margin-bottom: 130px;   
+}
+
+#main{
+	margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    text-align: center;
+}
+
+#main li{
+	margin-bottom: 150px;
+	list-style: none; 
+}
+
+#main a{
+	text-decoration: none; 
+	color: black;
+	-webkit-transition: color 0.3s ease-out;
+	-moz-transition: color 0.3s ease-out;
+	-ms-transition: color 0.3s ease-out;
+	-o-transition: color 0.3s ease-out;
+	transition: color 0.3s ease-out;
+}
+
+#main a:hover{
+	color: #3DF364;
+}
+
+#main h1{
+	font-size: 60px;
+}
+
+#main p{
+	font-size: 20px;
+}
