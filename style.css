@@ -170,7 +170,7 @@ p{
 
 .bilde_portfolio img{
 	max-width: 40%;
-	max-height: 40%; 
+	max-height: auto; 
 	padding: 15px;
 }
 
@@ -477,13 +477,13 @@ footer.second p{
 @media screen and (max-width: 1300px){
 	.bilde_portfolio img{
 		max-width: 60%;
-		max-height: 60%; 
+		max-height: auto; 
 	}
 }
 
 @media screen and (max-width: 900px){
 	.bilde_portfolio img{
 		max-width: 80%;
-		max-height: 80%; 
+		max-height: auto;
 	}
 }
