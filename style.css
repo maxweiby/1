@@ -258,11 +258,12 @@ footer.second p{
 }
 
 .filmPortfolio{
-	margin: auto;
+    margin: auto;
     width: 60%;
     height: 60%;
     padding: 10px;
     margin-bottom: 100px;
+	border: solid green; 
 }
 
 
