@@ -1,0 +1,5 @@
+markdown: redcarpet
+baseurl: /maxweiby.github.io 
+
+plugins:
+  - jekyll-seo-tag
