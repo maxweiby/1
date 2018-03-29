@@ -1,5 +1,13 @@
-permalink: pretty
+title: Max Weiby - foto og film
+email: maxmightan@gmail.com
+
+description: > # this means to ignore newlines until "baseurl:"
+  Max Weiby sin foto og film portefølje. Fotoprotefølje, filmportefølje. MaxWeiby. 
+
+url: "http://maxweiby.github.io/" 
+
+markdown: kramdown
+permalink: /:year/:title:output_ext
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+ - jekyll-seo-tag
